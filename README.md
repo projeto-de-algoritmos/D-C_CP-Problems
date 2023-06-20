@@ -16,7 +16,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 1676H2 - [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
 - 1385D - [a-Good String](https://codeforces.com/problemset/problem/1385/D)
 - 1385D - [multiply-strings](https://leetcode.com/problems/multiply-strings/description/)
-- 1385D - [find-k-th-smallest-pair-distance](https: // leetcode.com/problems/find-k-th-smallest-pair-distance/)
+- 1385D - [find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
 - 1385D - [reverse-pairs](https://leetcode.com/problems/reverse-pairs)
 
 ## Screenshots
