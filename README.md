@@ -14,12 +14,14 @@
 Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces e LeetCode. As questões escolhidas foram:
 
 - 1676H2 - [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
+- 1385D - [a-Good String](https://codeforces.com/problemset/problem/1385/D)
 
 ## Screenshots
 
 ### Accepteds
 
 ![image](./assets/Max_Croosings_AC.png)
+![image](./assets/AC_GoodString.png)
 
 ## Instalação
 
