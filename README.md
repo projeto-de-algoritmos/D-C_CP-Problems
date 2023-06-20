@@ -11,11 +11,15 @@
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces e LeetCode. As questões escolhidas foram:
+
+- 1676H2 - [Maximum Crossings (Hard Version)](https://codeforces.com/problemset/problem/1676/H2)
 
 ## Screenshots
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Accepteds
+
+![image](./assets/Max_Croosings_AC.png)
 
 ## Instalação
 
