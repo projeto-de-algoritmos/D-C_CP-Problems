@@ -39,6 +39,7 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros
+## Vídeo
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[link]([https://leetcode.com/problems/reverse-pairs](https://unbbr-my.sharepoint.com/:v:/g/personal/190016663_aluno_unb_br/EVR40lxVcm9CpQvztP1SMBABv2eJElq-pfZx5fAWqS9D8g?e=8dywd3)https://unbbr-my.sharepoint.com/:v:/g/personal/190016663_aluno_unb_br/EVR40lxVcm9CpQvztP1SMBABv2eJElq-pfZx5fAWqS9D8g?e=8dywd3)
+
