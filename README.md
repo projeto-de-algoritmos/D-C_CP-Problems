@@ -41,5 +41,10 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 
 ## Vídeo
 
-[link](https://unbbr-my.sharepoint.com/:v:/g/personal/190016663_aluno_unb_br/EVR40lxVcm9CpQvztP1SMBABv2eJElq-pfZx5fAWqS9D8g?e=hGvxee)
+O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](https://unbbr-my.sharepoint.com/:v:/g/personal/190016663_aluno_unb_br/EVR40lxVcm9CpQvztP1SMBABv2eJElq-pfZx5fAWqS9D8g?e=hGvxee)
+
+
+
+https://github.com/projeto-de-algoritmos/D-C_CP-Problems/assets/64049043/297ce27c-b547-477f-909a-d5873720791d
+
 
